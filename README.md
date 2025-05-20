@@ -12,7 +12,7 @@ Before you begin:
 - **Google may block sign-ins** from Java apps by default. If you run into issues, it’s likely due to:
   - Syntax errors
   - Needing to enable "Less Secure App Access" in your Google Account
-  - Disabling 2FA temporarily (for testing)
+  - Disabling 2FA temporarily so that your password authentication goes through
 
 Once that’s resolved, you're good to go!
 
